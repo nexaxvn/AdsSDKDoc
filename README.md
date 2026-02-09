@@ -2,6 +2,9 @@
 
 A native Android SDK library for loading and displaying AdMob advertisements, designed to simplify ad integration and management in Android applications.
 
+## Releases
+Current latest version: **`1.0.3`**
+
 ## Features
 
 - Easy integration with Google AdMob
@@ -17,6 +20,6 @@ A native Android SDK library for loading and displaying AdMob advertisements, de
 
 ## Get Started
 
-The following tutorial explains how to integrate the **Nexax-ADS-SDK** into your project: [Instruction link](https://github.com/nexaxvn/sample-nexax-ads-sdk)
+The following tutorial explains how to integrate the **Nexax-ADS-SDK** into your project: [Instruction link](https://github.com/nexaxvn/sample-nexax-ads-sdk)  
 **Note:** The instruction link provided is a **Partner-only** tutorial.
 Please contact [admin@nexax.global](admin@nexax.global) to request access permission.
