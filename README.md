@@ -3,7 +3,7 @@
 A native Android SDK library for loading and displaying AdMob advertisements, designed to simplify ad integration and management in Android applications.
 
 ## Releases
-Current latest version: **`1.0.4`**
+Current latest version: **`1.0.5`**
 
 ## Features
 
